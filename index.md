@@ -1,38 +1,26 @@
 ---
-title: 'Dept 999: Generic Description'
-subtitle: 'UC Berkeley, Spring 2024'
+title: "Stat 153: Introduction to Time Series"
+subtitle: 'UC Berkeley, Spring 2025'
 ---
-
-<!--div class="staffer">
-  <img class="staffer-image" src="{{ staff_photo }}" height=50 width=50 alt="{{ staff_name }}">
-  <div>
-    <h3 class="staffer-name">
-      <a href="{{ staff_website }}" target="_blank">{{ staff_name }}</a>
-      <p class="staffer-pronouns"><b>{{ staff_pronouns }}</b></p>
-    </h3>
-    <p><a href="mailto:{{ staff_email }}">{{ staff_email }}</a></p>
-    <p><b>Office Hours:</b> {{ staff_oh }}</p>
-  </div>
-</div-->
 
 ::::{grid} 1 2 2 2
 
 :::{card}
-:header: **Instructor Name**
+:header: **Aditya Guntuboyina**
 
-![Instructor Name](images/firefly-instructor.jpg)
+![Aditya Guntuboyina](images/firefly-instructor.jpg)
 
 +++
 
 * **Office Hours**: Tue 11-12pm (Evans 4019)
-* **Pronouns**: She/Her
+* **Pronouns**: He/Him
 * [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
 :::
 
 :::{card}
-:header: **GSI Name**
+:header: **Dohyeong Ki**
 
-![GSI Name](images/firefly-gsi.jpg)
+![Dohyeong Ki](images/firefly-gsi.jpg)
 
 +++
 
@@ -44,7 +32,7 @@ subtitle: 'UC Berkeley, Spring 2024'
 
 ::::
 
-:::{attention} Welcome to [Week 2](#week2) of Dept 999!
+:::{attention} Welcome to [Week 2](#week2) of Dept 153!
 :class: dropdown
 :icon: false
 👋
