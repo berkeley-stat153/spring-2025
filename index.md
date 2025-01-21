@@ -8,8 +8,6 @@ subtitle: 'UC Berkeley, Spring 2025'
 :::{card}
 :header: **Aditya Guntuboyina**
 
-![Aditya Guntuboyina](images/firefly-instructor.jpg)
-
 +++
 
 * **Office Hours**: Tue 11-12pm (Evans 4019)
@@ -20,7 +18,6 @@ subtitle: 'UC Berkeley, Spring 2025'
 :::{card}
 :header: **Dohyeong Ki**
 
-![Dohyeong Ki](images/firefly-gsi.jpg)
 
 +++
 
