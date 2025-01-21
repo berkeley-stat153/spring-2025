@@ -22,7 +22,7 @@ subtitle: 'UC Berkeley, Spring 2025'
 +++
 
 * **Office Hours**: MW 2-3pm (Evans 3137)
-* **Pronouns**: She/Her
+* **Pronouns**: He/Him
 * [gsi-name@berkeley.edu](mailto:gsi-name@berkeley.edu)
 
 :::
