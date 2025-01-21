@@ -32,11 +32,9 @@ subtitle: 'UC Berkeley, Spring 2025'
 
 ::::
 
-:::{attention} Welcome to [Week 2](#week2) of Dept 153!
-:class: dropdown
-:icon: false
-👋
-:::
+# Syllabus
+
+Basic information about the course can be found in the [syllabus](syllabus.pdf).
 
 # Schedule
 
