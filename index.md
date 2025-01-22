@@ -6,7 +6,7 @@ subtitle: 'UC Berkeley, Spring 2025'
 ::::{grid} 1 2 2 2
 
 :::{card}
-:header: **Aditya Guntuboyina**
+:header: **Aditya Guntuboyina (Instructor)**
 
 +++
 
@@ -16,7 +16,7 @@ subtitle: 'UC Berkeley, Spring 2025'
 :::
 
 :::{card}
-:header: **Dohyeong Ki**
+:header: **Dohyeong Ki (GSI)**
 
 
 +++

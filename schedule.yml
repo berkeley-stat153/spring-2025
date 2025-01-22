@@ -2,10 +2,10 @@
   days:
     - date: 'Aug 24'
       items:
-        - type: 'Lecture'
+        - type: 'Lecture Test'
           id: '1'
-          name: Introduction
-          href: './test.pdf'
+          name: Introduction and Overview
+          href: './153and248Spring2025TimeSeriesCourseOutline.pdf'
           auxil:
             id: 'Note 1'
             href: './unit1.html'
