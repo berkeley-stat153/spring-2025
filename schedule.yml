@@ -11,19 +11,30 @@
         - type: 'Lecture'
           id: '2'
           name: Linear Regression
+          href: "#"
     - date: 'Jan 24'	  
+      items:
         - type: 'GSI Discussion Section'
           id: '1'
+          name: TBD
+          href: "#"
 - week: 2
   days:
     - date: 'Jan 28'
       items:
         - type: 'Lecture'
           id: '3'
+          name: TBD
+          href: "#"
     - date: 'Jan 30'
       items:
         - type: 'Lecture'
           id: '4'
+          name: TBD
+          href: "#"
     - date: 'Jan 31'	  
+      items:
         - type: 'GSI Discussion Section'
           id: '2'
+          name: TBD
+          href: "#"
