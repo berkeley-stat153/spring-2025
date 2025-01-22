@@ -5,7 +5,7 @@
         - type: 'Lecture Test'
           id: '1'
           name: Introduction and Overview
-          href: './153and248Spring2025TimeSeriesCourseOutline.pdf'
+          href: './LectureOneSlides153248Spring2025PDF.pdf'
           auxil:
             id: 'Note 1'
             href: './unit1.html'
