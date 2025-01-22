@@ -10,9 +10,9 @@ subtitle: 'UC Berkeley, Spring 2025'
 
 +++
 
-* **Office Hours**: Tue 11-12pm (Evans 4019)
+* **Office Hours**: Tue and Thu 1:30-2:30 pm (Evans 422)
 * **Pronouns**: He/Him
-* [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
+* [aditya@stat.berkeley.edu](mailto:aditya@stat.berkeley.edu)
 :::
 
 :::{card}
@@ -21,9 +21,9 @@ subtitle: 'UC Berkeley, Spring 2025'
 
 +++
 
-* **Office Hours**: MW 2-3pm (Evans 3137)
+* **Office Hours**: Friday 9-10 am, 1-2 pm, 5-6 pm (Evans 334)
 * **Pronouns**: He/Him
-* [gsi-name@berkeley.edu](mailto:gsi-name@berkeley.edu)
+* [dohyeong_ki@berkeley.edu](mailto:dohyeong_ki@berkeley.edu)
 
 :::
 
