@@ -16,16 +16,14 @@
           id: '1'
 - week: 2
   days:
-    - date: 'Aug 29'
+    - date: 'Jan 28'
       items:
         - type: 'Lecture'
+          id: '3'
+    - date: 'Jan 30'
+      items:
+        - type: 'Lecture'
+          id: '4'
+    - date: 'Jan 31'	  
+        - type: 'GSI Discussion Section'
           id: '2'
-          name: Pandas 1
-          href: 'https://ds100.org/fa23/lecture/lec01'
-        - type: 'Participation'
-          id: '2'
-          name: Lecture Participation 2
-          href: 'https://ds100.org/fa23/lecture/lec01'
-          auxil:
-            id: 'Note 2'
-            href: './unit2.html'
