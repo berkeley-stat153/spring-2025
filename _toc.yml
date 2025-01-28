@@ -1,7 +1,4 @@
 format: jb-book
 root: index
 chapters:
-- file: calendar
-- file: data
-- file: unit1
-- file: unit2
+- file: Lab1_Part1_Solution
