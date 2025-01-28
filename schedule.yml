@@ -10,7 +10,7 @@
       items:
         - type: 'Lecture'
           id: '2'
-          name: Linear Regression
+          name: TBD
           href: "#"
     - date: 'Jan 24'	  
       items:
