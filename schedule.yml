@@ -14,13 +14,17 @@
           href: "./LectureTwo153248Spring2025.pdf"
     - date: 'Jan 24'
       items:
-        - type: 'GSI Discussion Section Part'
-          id: '1'
+        - type: 'Lab'
+          id: 'part 1'
           name: Fitting Trends via Linear Regression
-          href: "./Lab1_Part1_Solution.ipynb"
-        - type: 'GSI Discussion Section Part'
-          id: '2'
-          name: Understanding Residual Analysis
+          href: "Lab1_Part1_Solution"
+        - type: 'Lab'
+          id: 'part 2'
+          name: Normal Mean Inference
+          href: "./Lab1_Part2_Solution.pdf"
+        - type: 'Dataset'
+          id: '1'
+          name: Normal Mean Inference
           href: "./Lab1_Part2_Solution.pdf"
 - week: 2
   days:
@@ -38,7 +42,7 @@
           href: "#"
     - date: 'Jan 31'
       items:
-        - type: 'GSI Discussion Section'
-          id: '2'
+        - type: 'Lab'
+          id: ''
           name: TBD
           href: "#"
