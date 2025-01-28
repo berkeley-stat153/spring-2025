@@ -30,8 +30,8 @@ site:
   nav: []
   actions:
     - title: Ed
-      url: https://edstem.org
+      url: https://edstem.org/us/courses/74699/discussion
     - title: Gradescope
-      url: https://www.gradescope.com/courses/564792
+      url: https://www.gradescope.com/courses/963055
   domains:
     - stat153.berkeley.edu
