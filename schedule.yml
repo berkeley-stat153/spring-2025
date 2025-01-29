@@ -4,19 +4,19 @@
       items:
         - type: 'Lecture'
           id: '1'
-          name: Introduction and Overview
+          name: Slides--Introduction and Overview
           href: './LectureOneSlides153248Spring2025PDF.pdf'
     - date: 'Jan 23'
       items:
         - type: 'Lecture'
           id: '2'
-          name: Linear Regression (Frequentist Inference)
+          name: Notes--Simple Linear Regression (Frequentist Inference)
           href: "./LectureTwo153248Spring2025.pdf"
     - date: 'Jan 24'
       items:
         - type: 'Lab'
           id: 'part 1'
-          name: Fitting Trends via Linear Regression
+          name: Notebook--Fitting Trends via Linear Regression
           href: "Lab1_Part1_Solution"
         - type: 'Dataset'
           id: '1'
@@ -28,16 +28,20 @@
           href: "./USAccDeaths.csv"	  
         - type: 'Lab'
           id: 'part 2'
-          name: Normal Mean Inference
+          name: Notes--Normal Mean Inference
           href: "./Lab1_Part2_Solution.pdf"
 - week: 2
   days:
     - date: 'Jan 28'
       items:
         - type: 'Lecture'
-          id: '3'
-          name: TBD
-          href: "#"
+          id: '3 Notes'
+          name: Notes--Simple Linear Regression (Bayesian Inference)
+          href: "./LectureThree153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '3 Code'
+          name: Notebook--More on fitting trends via linear regression
+          href: "./CodeLectureThree153248Spring2025.ipynb"	
     - date: 'Jan 30'
       items:
         - type: 'Lecture'
