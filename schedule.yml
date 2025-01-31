@@ -47,7 +47,7 @@
         - type: 'Lecture'
           id: '4 Notes'
           name: Notes--Bayesian inference in linear regression
-          href: "./LectureThree153248Spring2025.pdf"
+          href: "./LectureFour153248Spring2025.pdf"
         - type: 'Lecture'
           id: '4 Code'
           name: Notebook--Uncertainty Quantification in Linear Regression
