@@ -20,7 +20,7 @@ subtitle: 'UC Berkeley, Spring 2025'
 
 +++
 
-* **Office Hours**: Friday 9-10 am, 1-2 pm, 5-6 pm (Evans 334)
+* **Office Hours**: Friday 9-10 am, 1-2 pm, 5-6 pm (Evans 446)
 * [dohyeong_ki@berkeley.edu](mailto:dohyeong_ki@berkeley.edu)
 
 :::
