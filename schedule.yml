@@ -56,5 +56,5 @@
       items:
         - type: 'Lab'
           id: ''
-          name: TBD
-          href: "#"
+          name: Notebook--Regression Details
+          href: "./Lab2.ipynb"
