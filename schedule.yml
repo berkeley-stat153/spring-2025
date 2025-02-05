@@ -58,3 +58,31 @@
           id: ''
           name: Notebook--Regression Details
           href: "./Lab2.ipynb"
+- week: 3
+  days:
+    - date: 'Feb 4'
+      items:
+        - type: 'Lecture'
+          id: '5 Notes'
+          name: Notes--Nonlinear Regression (Sinusoidal Model)
+          href: "./LectureFive153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '5 Code'
+          name: Notebook--Sinusoidal Model Fitting
+          href: "./CodeLectureFive153248Spring2025.ipynb"	
+    - date: 'Feb 06'
+      items:
+        - type: 'Lecture'
+          id: '6 Notes'
+          name: Notes--TBD
+          href: ""
+        - type: 'Lecture'
+          id: '6 Code'
+          name: Notebook--TBD
+          href: ""	
+    - date: 'Feb 07'
+      items:
+        - type: 'Lab'
+          id: ''
+          name: TBD
+          href: ""
