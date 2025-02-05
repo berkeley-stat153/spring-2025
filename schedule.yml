@@ -70,6 +70,10 @@
           id: '5 Code'
           name: Notebook--Sinusoidal Model Fitting
           href: "./CodeLectureFive153248Spring2025.ipynb"	
+        - type: 'Dataset'
+          id: '1'
+          name: Annual Sunspots (from https://www.sidc.be/SILSO/datafiles) 
+          href: "./SN_y_tot_V2.0.txt"	  
     - date: 'Feb 06'
       items:
         - type: 'Lecture'
