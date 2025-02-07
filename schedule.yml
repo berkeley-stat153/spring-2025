@@ -78,8 +78,8 @@
       items:
         - type: 'Lecture'
           id: '6 Notes'
-          name: Notes--TBD
-          href: ""
+          name: Notes--Sum of Squares and Periodogram
+          href: "./LectureSix153248Spring2025.pdf"
         - type: 'Lecture'
           id: '6 Code'
           name: Notebook--Sum of Squares and Periodogram
