@@ -84,6 +84,10 @@
           id: '6 Code'
           name: Notebook--Sum of Squares and Periodogram
           href: "./CodeLectureSix153248Spring2025.ipynb"	
+        - type: 'Dataset'
+          id: '1'
+          name: Audio Middle C file
+          href: "./Hear Piano Note - Middle C.mp3"	  
     - date: 'Feb 07'
       items:
         - type: 'Lab'
