@@ -55,7 +55,7 @@
     - date: 'Jan 31'
       items:
         - type: 'Lab'
-          id: ''
+          id: '2'
           name: Notebook--Regression Details
           href: "./Lab2.ipynb"
 - week: 3
@@ -91,6 +91,6 @@
     - date: 'Feb 07'
       items:
         - type: 'Lab'
-          id: ''
-          name: TBD
-          href: ""
+          id: '3'
+          name: Notebook--More on fitting sinusoidal models
+          href: "./Lab3.ipynb"
