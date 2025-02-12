@@ -94,3 +94,31 @@
           id: '3'
           name: Notebook--More on fitting sinusoidal models
           href: "./Lab3.ipynb"
+- week: 4
+  days:
+    - date: 'Feb 11'
+      items:
+        - type: 'Lecture'
+          id: '7 Notes'
+          name: Notes--Discrete Fourier Transform
+          href: "./LectureSeven153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '5 Code'
+          name: Notebook--Discrete Fourier Transform
+          href: "./CodeLectureSeven153248Spring2025.ipynb"	
+    - date: 'Feb 13'
+      items:
+        - type: 'Lecture'
+          id: '6 Notes'
+          name: Notes--TBD
+          href: ""
+        - type: 'Lecture'
+          id: '6 Code'
+          name: Notebook--TBD
+          href: ""	
+    - date: 'Feb 14'
+      items:
+        - type: 'Lab'
+          id: '4'
+          name: TBD
+          href: ""
