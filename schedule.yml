@@ -103,19 +103,19 @@
           name: Notes--Discrete Fourier Transform
           href: "./LectureSeven153248Spring2025.pdf"
         - type: 'Lecture'
-          id: '5 Code'
+          id: '7 Code'
           name: Notebook--Discrete Fourier Transform
           href: "./CodeLectureSeven153248Spring2025.ipynb"	
     - date: 'Feb 13'
       items:
         - type: 'Lecture'
-          id: '6 Notes'
-          name: Notes--TBD
-          href: ""
+          id: '8 Notes'
+          name: Notes--DFT, Periodogram, Nonlinear Regression
+          href: "./LectureEight153248Spring2025.pdf"
         - type: 'Lecture'
-          id: '6 Code'
-          name: Notebook--TBD
-          href: ""	
+          id: '8 Code'
+          name: Notebook--Uses of the Periodogram
+          href: "./CodeLectureEight153248Spring2025.ipynb"	
     - date: 'Feb 14'
       items:
         - type: 'Lab'
