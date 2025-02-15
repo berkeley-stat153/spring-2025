@@ -120,5 +120,5 @@
       items:
         - type: 'Lab'
           id: '4'
-          name: TBD
-          href: ""
+          name: Notebook--More on Nonlinear Models
+          href: "./Lab4.ipynb"
