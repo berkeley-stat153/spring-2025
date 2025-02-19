@@ -122,3 +122,31 @@
           id: '4'
           name: Notebook--More on Nonlinear Models
           href: "./Lab4.ipynb"
+- week: 5
+  days:
+    - date: 'Feb 18'
+      items:
+        - type: 'Lecture'
+          id: '9 Notes'
+          name: Notes--Change of Slope Models
+          href: "./LectureNine153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '9 Code'
+          name: Notebook--Change of Slope (or Broken-Stick Regression Model)
+          href: "./CodeLectureNine153248Spring2025.ipynb"	
+    - date: 'Feb 20'
+      items:
+        - type: 'Lecture'
+          id: '10 Notes'
+          name: Notes--TBA
+          href: ""
+        - type: 'Lecture'
+          id: '10 Code'
+          name: Notebook--TBA
+          href: ""	
+    - date: 'Feb 21'
+      items:
+        - type: 'Lab'
+          id: '5'
+          name: Notebook--TBA
+          href: ""
