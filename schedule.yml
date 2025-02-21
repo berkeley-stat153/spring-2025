@@ -138,12 +138,12 @@
       items:
         - type: 'Lecture'
           id: '10 Notes'
-          name: Notes--TBA
-          href: ""
+          name: Notes--High-dimensional linear regression
+          href: "./LectureTen153248Spring2025.pdf"
         - type: 'Lecture'
           id: '10 Code'
-          name: Notebook--TBA
-          href: ""	
+          name: Notebook--High dimensional regression -- Ridge and LASSO
+          href: "./CodeLectureTen153248Spring2025.ipynb"	
     - date: 'Feb 21'
       items:
         - type: 'Lab'
