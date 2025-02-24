@@ -148,5 +148,5 @@
       items:
         - type: 'Lab'
           id: '5'
-          name: Notebook--TBA
-          href: ""
+          name: Notebook--Change-point model
+          href: "./Lab5.ipynb"
