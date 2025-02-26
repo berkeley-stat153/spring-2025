@@ -150,3 +150,31 @@
           id: '5'
           name: Notebook--Change-point model
           href: "./Lab5.ipynb"
+- week: 6
+  days:
+    - date: 'Feb 25'
+      items:
+        - type: 'Lecture'
+          id: '11 Notes'
+          name: Notes--Smooth Trend Estimation
+          href: "./LectureEleven153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '11 Code'
+          name: Notebook--Smooth Trend Estimation
+          href: "./CodeLectureEleven153248Spring2025.ipynb"	
+    - date: 'Feb 27'
+      items:
+        - type: 'Lecture'
+          id: '12 Notes'
+          name: Notes--TBA
+          href: ""
+        - type: 'Lecture'
+          id: '12 Code'
+          name: Notebook--TBA
+          href: ""	
+    - date: 'Feb 28'
+      items:
+        - type: 'Lab'
+          id: '6'
+          name: Notebook--TBA
+          href: ""
