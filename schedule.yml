@@ -166,12 +166,12 @@
       items:
         - type: 'Lecture'
           id: '12 Notes'
-          name: Notes--TBA
-          href: ""
+          name: Notes--Bayesian regularization
+          href: "./LectureTwelve153248Spring2025.pdf"
         - type: 'Lecture'
           id: '12 Code'
-          name: Notebook--TBA
-          href: ""	
+          name: Notebook--Bayesian regularization
+          href: "./CodeLectureTwelve153248Spring2025.ipynb"	
     - date: 'Feb 28'
       items:
         - type: 'Lab'
