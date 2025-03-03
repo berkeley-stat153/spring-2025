@@ -176,5 +176,5 @@
       items:
         - type: 'Lab'
           id: '6'
-          name: Notebook--TBA
-          href: ""
+          name: Notebook--High-dimensional regression for change-points
+          href: "./Lab6.ipynb"
