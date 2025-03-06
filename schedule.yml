@@ -204,5 +204,5 @@
       items:
         - type: 'Lab'
           id: '7'
-          name: Notebook--TBA-points
+          name: Notebook--TBA
           href: ""
