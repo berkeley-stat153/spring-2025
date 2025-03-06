@@ -178,3 +178,31 @@
           id: '6'
           name: Notebook--High-dimensional regression for change-points
           href: "./Lab6.ipynb"
+- week: 7
+  days:
+    - date: 'Mar 04'
+      items:
+        - type: 'Lecture'
+          id: '13 Notes'
+          name: Notes--Sunspots and the Spectrum Model
+          href: "./LectureThirteen153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '11 Code'
+          name: Notebook--Sunspots and the Spectrum Model
+          href: "./CodeLectureThirteen153248Spring2025.ipynb"	
+    - date: 'Mar 04'
+      items:
+        - type: 'Lecture'
+          id: '12 Notes'
+          name: Notes--TBA
+          href: ""
+        - type: 'Lecture'
+          id: '12 Code'
+          name: Notebook--TBA
+          href: ""	
+    - date: 'Feb 28'
+      items:
+        - type: 'Lab'
+          id: '7'
+          name: Notebook--TBA-points
+          href: ""
