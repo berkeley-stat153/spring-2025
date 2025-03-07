@@ -187,20 +187,20 @@
           name: Notes--Sunspots and the Spectrum Model
           href: "./LectureThirteen153248Spring2025.pdf"
         - type: 'Lecture'
-          id: '11 Code'
+          id: '13 Code'
           name: Notebook--Sunspots and the Spectrum Model
           href: "./CodeLectureThirteen153248Spring2025.ipynb"	
     - date: 'Mar 04'
       items:
         - type: 'Lecture'
-          id: '12 Notes'
-          name: Notes--TBA
-          href: ""
+          id: '14 Notes'
+          name: Notes--Three high-dimensional models
+          href: "./LectureFourteen153248Spring2025.pdf"
         - type: 'Lecture'
-          id: '12 Code'
-          name: Notebook--TBA
-          href: ""	
-    - date: 'Feb 28'
+          id: '14 Code'
+          name: Notebook--Three high-dimensional models
+          href: "./CodeLectureFourteen153248Spring2025.ipynb"	
+    - date: 'Mar 07'
       items:
         - type: 'Lab'
           id: '7'
