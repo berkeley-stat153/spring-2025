@@ -204,5 +204,5 @@
       items:
         - type: 'Lab'
           id: '7'
-          name: Notebook--TBA
-          href: ""
+          name: Notebook--Spectrum Model applied to a FRED dataset
+          href: "./Lab7.ipynb"
