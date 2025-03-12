@@ -206,3 +206,31 @@
           id: '7'
           name: Notebook--Spectrum Model applied to a FRED dataset
           href: "./Lab7.ipynb"
+- week: 8
+  days:
+    - date: 'Mar 11'
+      items:
+        - type: 'Lecture'
+          id: '15 Notes'
+          name: Notes--Spectrum Model
+          href: "./LectureFifteen153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '15 Code'
+          name: Notebook--Spectral Analysis
+          href: "./CodeLectureFifteen153248Spring2025.ipynb"	
+    - date: 'Mar 13'
+      items:
+        - type: 'Lecture'
+          id: '16 Notes'
+          name: Notes--TBA
+          href: ""
+        - type: 'Lecture'
+          id: '16 Code'
+          name: Notebook--TBA
+          href: ""	
+    - date: 'Mar 14'
+      items:
+        - type: 'Lab'
+          id: '8'
+          name: Notebook--Review for Midterm
+          href: ""
