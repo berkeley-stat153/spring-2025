@@ -222,12 +222,12 @@
       items:
         - type: 'Lecture'
           id: '16 Notes'
-          name: Notes--TBA
-          href: ""
+          name: Notes--AutoRegressive Models
+          href: "./LectureSixteen153248Spring2025.pdf"
         - type: 'Lecture'
           id: '16 Code'
-          name: Notebook--TBA
-          href: ""	
+          name: Notebook--AutoRegressive Models
+          href: "./CodeLectureSixteen153248Spring2025.ipynb"	
     - date: 'Mar 14'
       items:
         - type: 'Lab'
