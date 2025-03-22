@@ -234,3 +234,27 @@
           id: '8'
           name: No notes or code--Review for Midterm
           href: ""
+- week: 8
+  days:
+    - date: 'Mar 18'
+      items:
+        - type: 'Midterm'
+          id: ''
+          name: 
+          href: ""
+    - date: 'Mar 20'
+      items:
+        - type: 'Lecture'
+          id: '17 Notes'
+          name: Notes--Estimation and Predictions for AR models
+          href: "./LectureSeventeen153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '17 Code'
+          name: Notebook--AR Models (estimation and prediction)
+          href: "./CodeLectureSeventeen153248Spring2025.ipynb"	
+    - date: 'Mar 21'
+      items:
+        - type: 'Lab'
+          id: '9'
+          name: Notebook--Sunspots Prediction
+          href: "./Lab9.ipynb"
