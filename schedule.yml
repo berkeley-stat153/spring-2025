@@ -238,9 +238,9 @@
   days:
     - date: 'Mar 18'
       items:
-        - type: 'Midterm'
+        - type: 'Lecture'
           id: ''
-          name: 
+          name: Midterm
           href: ""
     - date: 'Mar 20'
       items:
