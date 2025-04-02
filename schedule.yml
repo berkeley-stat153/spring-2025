@@ -258,3 +258,32 @@
           id: '9'
           name: Notebook--Sunspots Prediction
           href: "./Lab9.ipynb"
+- week: 10
+  days:
+    - date: 'Apr 01'
+      items:
+        - type: 'Lecture'
+          id: '18 Notes'
+          name: Notes--Estimation, Inference and Prediction for AR models
+          href: "./LectureEighteen153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '18 Code'
+          name: Notebook--Estimation, Inference and Prediction for AR models
+          href: "./CodeLectureEighteen153248Spring2025.ipynb"		  
+    - date: 'Apr 03'
+      items:
+        - type: 'Lecture'
+          id: '19 Notes'
+          name: Notes--TBD
+          href: ""
+        - type: 'Lecture'
+          id: '19 Code'
+          name: Notebook--TBD
+          href: ""	
+    - date: 'Apr 04'
+      items:
+        - type: 'Lab'
+          id: '10'
+          name: Notebook--TBC
+          href: ""
+
