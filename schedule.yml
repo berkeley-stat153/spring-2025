@@ -274,16 +274,16 @@
       items:
         - type: 'Lecture'
           id: '19 Notes'
-          name: Notes--TBD
-          href: ""
+          name: Notes--Prediction Uncertainty Quantification in AR models
+          href: "./LectureNineteen153248Spring2025.pdf"
         - type: 'Lecture'
           id: '19 Code'
-          name: Notebook--TBD
-          href: ""	
+          name: Notebook--Prediction Uncertainty Quantification in AR models
+          href: "./CodeLectureNineteen153248Spring2025.ipynb"	
     - date: 'Apr 04'
       items:
         - type: 'Lab'
           id: '10'
-          name: Notebook--TBC
+          name: Notebook--TBD
           href: ""
 
