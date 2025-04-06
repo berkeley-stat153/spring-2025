@@ -284,6 +284,6 @@
       items:
         - type: 'Lab'
           id: '10'
-          name: Notebook--TBD
-          href: ""
+          name: Notebook--AR models (estimation, inference and prediction)
+          href: "./Lab10.ipynb"
 
