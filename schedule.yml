@@ -286,4 +286,32 @@
           id: '10'
           name: Notebook--AR models (estimation, inference and prediction)
           href: "./Lab10.ipynb"
+- week: 11
+  days:
+    - date: 'Apr 08'
+      items:
+        - type: 'Lecture'
+          id: '20 Notes'
+          name: Notes--Stationarity, MA models, ACF, PACF
+          href: "./LectureTwenty153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '20 Code'
+          name: Notebook--Moving Average Models, ACF and PACF
+          href: "./CodeLectureTwenty153248Spring2025.ipynb"		  
+    - date: 'Apr 10'
+      items:
+        - type: 'Lecture'
+          id: '20 Notes'
+          name: Notes--TBD
+          href: ""
+        - type: 'Lecture'
+          id: '20 Code'
+          name: Notebook--TBD
+          href: ""	
+    - date: 'Apr 04'
+      items:
+        - type: 'Lab'
+          id: '11'
+          name: Notebook--TBD
+          href: ""
 
