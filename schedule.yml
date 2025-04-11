@@ -301,14 +301,14 @@
     - date: 'Apr 10'
       items:
         - type: 'Lecture'
-          id: '20 Notes'
-          name: Notes--TBD
-          href: ""
+          id: '21 Notes'
+          name: Notes--ACF, PACF, AR models and Stationarity
+          href: "./LectureTwentyOne153248Spring2025.pdf"
         - type: 'Lecture'
-          id: '20 Code'
-          name: Notebook--TBD
-          href: ""	
-    - date: 'Apr 04'
+          id: '21 Code'
+          name: Notebook--ACF, PACF, AR models and Stationarity
+          href: "./CodeLectureTwenty153248Spring2025.ipynb"	
+    - date: 'Apr 11'
       items:
         - type: 'Lab'
           id: '11'
