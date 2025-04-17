@@ -312,7 +312,7 @@
       items:
         - type: 'Lab'
           id: '11'
-          name: Notebook--TBD
+          name: Notebook--ACF and PACF
           href: "./Lab11.ipynb"
 - week: 12
   days:
