@@ -313,5 +313,34 @@
         - type: 'Lab'
           id: '11'
           name: Notebook--TBD
+          href: "./Lab11.ipynb"
+- week: 12
+  days:
+    - date: 'Apr 15'
+      items:
+        - type: 'Lecture'
+          id: '22 Notes'
+          name: Notes--Stationarity of AR models, Box-Jenkins Modeling
+          href: "./LectureTwentyTwo153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '22 Code'
+          name: Notebook--Box-Jenkins Modeling
+          href: "./CodeLectureTwentyTwo153248Spring2025.ipynb"		  
+    - date: 'Apr 17'
+      items:
+        - type: 'Lecture'
+          id: '23 Notes'
+          name: Notes--TBD
           href: ""
+        - type: 'Lecture'
+          id: '23 Code'
+          name: Notebook--TBD
+          href: ""	
+    - date: 'Apr 18'
+      items:
+        - type: 'Lab'
+          id: '12'
+          name: Notebook--TBD
+          href: ""
+	  
 
