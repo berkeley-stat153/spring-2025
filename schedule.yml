@@ -330,17 +330,17 @@
       items:
         - type: 'Lecture'
           id: '23 Notes'
-          name: Notes--TBD
-          href: ""
+          name: Notes--ARIMA and SARIMA models
+          href: "./LectureTwentyThree153248Spring2025.pdf"
         - type: 'Lecture'
           id: '23 Code'
-          name: Notebook--TBD
-          href: ""	
+          name: Notebook--ARIMA and SARIMA models
+          href: "./CodeLectureTwentyThree153248Spring2025.ipynb"	
     - date: 'Apr 18'
       items:
         - type: 'Lab'
           id: '12'
-          name: Notebook--TBD
-          href: ""
+          name: Notebook--
+          href: "./Lab12.ipynb"
 	  
 
