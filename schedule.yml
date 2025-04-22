@@ -300,7 +300,7 @@
           href: "./CodeLectureTwenty153248Spring2025.ipynb"
         - type: 'Dataset'
           id: '1'
-          name: varve dataset
+          name: varve dataset (from the Shumway-Stoffer book)
           href: "./varve.csv"	  	  
     - date: 'Apr 10'
       items:
@@ -339,7 +339,11 @@
         - type: 'Lecture'
           id: '23 Code'
           name: Notebook--ARIMA and SARIMA models
-          href: "./CodeLectureTwentyThree153248Spring2025.ipynb"	
+          href: "./CodeLectureTwentyThree153248Spring2025.ipynb"
+        - type: 'Dataset'
+          id: '1'
+          name: co2 dataset (from the Cryer-Chan book)
+          href: "./co2_TSA.csv"	  	  	  
     - date: 'Apr 18'
       items:
         - type: 'Lab'
