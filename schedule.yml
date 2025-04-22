@@ -344,7 +344,7 @@
       items:
         - type: 'Lab'
           id: '12'
-          name: Notebook--
+          name: Notebook--Stationary Solutions, Box-Jenkins Modeling, AIC and BIC
           href: "./Lab12.ipynb"
 	  
 
