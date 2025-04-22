@@ -297,7 +297,11 @@
         - type: 'Lecture'
           id: '20 Code'
           name: Notebook--Moving Average Models, ACF and PACF
-          href: "./CodeLectureTwenty153248Spring2025.ipynb"		  
+          href: "./CodeLectureTwenty153248Spring2025.ipynb"
+        - type: 'Dataset'
+          id: '1'
+          name: varve dataset
+          href: "./varve.csv"	  	  
     - date: 'Apr 10'
       items:
         - type: 'Lecture'
@@ -307,7 +311,7 @@
         - type: 'Lecture'
           id: '21 Code'
           name: Notebook--ACF, PACF, AR models and Stationarity
-          href: "./CodeLectureTwenty153248Spring2025.ipynb"	
+          href: "./CodeLectureTwentyOne153248Spring2025.ipynb"	
     - date: 'Apr 11'
       items:
         - type: 'Lab'
