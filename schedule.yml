@@ -350,5 +350,29 @@
           id: '12'
           name: Notebook--Stationary Solutions, Box-Jenkins Modeling, AIC and BIC
           href: "./Lab12.ipynb"
+- week: 13
+  days:
+    - date: 'Apr 22'
+      items:
+        - type: 'Lecture'
+          id: ''
+          name: Notes--No lecture (Professor sick)
+          href: ""
+    - date: 'Apr 24'
+      items:
+        - type: 'Lecture'
+          id: '24 Notes'
+          name: Notes--Recurrent Neural Networks
+          href: "./LectureTwentyFour153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '24 Code'
+          name: Notebook--Model Fitting using PyTorch
+          href: "./CodeLectureTwentyFour153248Spring2025.ipynb"
+    - date: 'Apr 25'
+      items:
+        - type: 'Lab'
+          id: '13'
+          name: Notebook--Model Fitting using PyTorch
+          href: "./Lab13.ipynb"
 	  
 
