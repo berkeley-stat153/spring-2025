@@ -380,11 +380,11 @@
       items:
         - type: 'Lecture'
           id: '25 Notes'
-          name: Notes--
+          name: Notes--Nonlinear AR, RNN, GRU, LSTM
           href: "./LectureTwentyFive153248Spring2025.pdf"
         - type: 'Lecture'
           id: '25 Code'
-          name: Notebook--Box-Jenkins Modeling
+          name: Notebook--Nonlinear AutoRegression Modeling
           href: "./CodeLectureTwentyFive153248Spring2025.ipynb"		  
     - date: 'May 01'
       items:
