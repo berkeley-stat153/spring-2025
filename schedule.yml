@@ -374,5 +374,33 @@
           id: '13'
           name: Notebook--Model Fitting using PyTorch
           href: "./Lab13.ipynb"
+- week: 14
+  days:
+    - date: 'Apr 29'
+      items:
+        - type: 'Lecture'
+          id: '25 Notes'
+          name: Notes--
+          href: "./LectureTwentyFive153248Spring2025.pdf"
+        - type: 'Lecture'
+          id: '25 Code'
+          name: Notebook--Box-Jenkins Modeling
+          href: "./CodeLectureTwentyFive153248Spring2025.ipynb"		  
+    - date: 'May 01'
+      items:
+        - type: 'Lecture'
+          id: '26 Notes'
+          name: Notes--TBD
+          href: ""
+        - type: 'Lecture'
+          id: '26 Code'
+          name: Notebook--TBD
+          href: ""
+    - date: 'May 02'
+      items:
+        - type: 'Lab'
+          id: '14'
+          name: Notebook--TBD
+          href: ""
 	  
 
