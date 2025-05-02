@@ -390,12 +390,12 @@
       items:
         - type: 'Lecture'
           id: '26 Notes'
-          name: Notes--TBD
-          href: ""
+          name: Notes--RNN, GRU, LSTM
+          href: "./LectureTwentySix153248Spring2025.pdf"
         - type: 'Lecture'
           id: '26 Code'
-          name: Notebook--TBD
-          href: ""
+          name: Notebook--LSTM (and RNN, GRU) fitting
+          href: "./CodeLectureTwentySix153248Spring2025.ipynb" 
     - date: 'May 02'
       items:
         - type: 'Lab'
