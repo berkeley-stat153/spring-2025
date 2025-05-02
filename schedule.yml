@@ -400,7 +400,7 @@
       items:
         - type: 'Lab'
           id: '14'
-          name: Notebook--TBD
-          href: ""
+          name: Notebook--LSTM Neural Network Models
+          href: "./Lab14.ipynb"
 	  
 
